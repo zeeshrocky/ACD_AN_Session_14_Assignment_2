@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AddContacts</string>
+    <string name="hnt_et_name">Name</string>
+    <string name="hnt_et_mobile_phone">Mobile Number</string>
+    <string name="hnt_et_home_phone">Home Number</string>
+    <string name="hnt_et_work_email">Work Email</string>
+    <string name="hnt_et_home_email">Personal Email</string>
+    <string name="str_btn_add">Add To Contacts</string>
+    <string name="str_btn_contacts">Contacts</string>
+</resources>
